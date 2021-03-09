@@ -1,0 +1,88 @@
+body {
+  background-color: rgb(20, 13, 99);
+  margin: 0;
+  font-family: "Muli", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: rgb(242, 140, 63);
+}
+.container {
+  margin: 0 4rem;
+}
+.header {
+  color: rgb(242, 140, 63);
+  border-bottom: 1px solid rgb(131, 77, 81);
+  margin: 2.2rem 0 8.25rem 0;
+}
+.pagelink {
+  display: inline;
+  font-size: 2.25rem;
+  margin-right: 0.6rem;
+}
+.header1-2 {
+  font-size: x-large;
+  font-weight: lighter;
+}
+.header2 {
+  margin: 1.25rem 0 3rem 0;
+  font-family: "Geomanist Regular";
+  font-size: 1.3rem;
+}
+
+.content {
+  color: white;
+  text-align: center;
+  margin: 0 12.5rem;
+  font-size: 1.35rem;
+}
+.content1,
+.content2,
+.content3 {
+  margin: 0 0 1.7rem 0;
+}
+.csa {
+  text-decoration: underline;
+}
+.footer {
+  background-color: rgb(13, 9, 49);
+  height: 11.25rem;
+  color: white;
+}
+.devsoclogo {
+  display: inline-block;
+  padding-left: 8.5rem;
+  padding-right: 46rem;
+  padding-top: 2.25rem;
+}
+.logo {
+  height: 3.5rem;
+}
+.social {
+  display: inline-block;
+  padding-right: 8.5rem;
+  padding-top: 2.25rem;
+}
+.socialmedia {
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.icons {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+i {
+  color: white;
+}
+.query {
+  text-align: center;
+  font-size: 1rem;
+}
+.author {
+  text-align: center;
+  margin-top: 1.5rem;
+  font-weight: lighter;
+}
+.heart {
+  color: red;
+}
